@@ -1,6 +1,6 @@
 ![Data Science/ML](https://media.licdn.com/dms/image/v2/D5616AQGHS9_XpK2nmQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724173655151?e=1729728000&v=beta&t=Z7SvMOoHh7oa1MGjzfg2UxtHoUge9AuKedrBv5--QgI)
 
-## Hi there 👋, my name is Md. Sohag Hossain
+## Hi there 👋, Md. Sohag Hossain
 ### Data Science/ML
 
 
