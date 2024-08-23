@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sohag016&label=Profile%20views&color=0e75b6&style=flat" alt="Sohag016" /> </p>
 
-- - 🌱 I’m currently learning **DATA SCIENCE/ML**
+- 🌱 I’m currently learning **DATA SCIENCE/ML**
 
 - 👨‍💻 Student at University of Dhaka
 
@@ -26,6 +26,7 @@
 <a href="https://www.facebook.com/mdsohag.hosen.96558" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsohag.hosen.96558" height="30" width="40" />
 </a>
+
 <a href="https://instagram.com/mdsohag.hosen.96558" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsohag.hosen.96558" height="30" width="40" />
 </a>
