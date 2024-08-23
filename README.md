@@ -9,7 +9,7 @@
 
 - 👨‍💻 Student at University of Dhaka
 
-- 💬 Let's go discuss anything about **Python, Data Science & Mechine Learning**
+- 💬 Ask me about **Python, Data Science & Mechine Learning**
   
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/md-sohag-hossain-4687b6268/)
