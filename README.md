@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python, Data Science & Mechine Learning**
   
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/md-sohag138643/)
+- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/md-sohag138643/])
 
 
 <h3 align="left">Connect with me:</h3>
