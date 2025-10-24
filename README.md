@@ -1,9 +1,9 @@
 [![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQF3xYz1R8ThvA/profile-displaybackgroundimage-shrink_350_1400/B56ZoU5QjJJsAc-/0/1761287147189?e=1762992000&v=beta&t=G67E8bcMl2EcAz-b1aMwmFH0JE_xcnHSXYi7QVv5cW4)](https://www.linkedin.com/in/sohag-a5550a374/)
 
-<h2 align="center">Hi there 👋, I'm Md. Sohag Hossain</h2>
-<h3 align="center">🚀 Data Science & Machine Learning Enthusiast | Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Md. Sohag Hossain</h1>
+<h3 align="center">🚀 Data Science & Machine Learning Enthusiast | Data Analysis </h3>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sohag016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
@@ -12,7 +12,7 @@
 ## 🌱 Current Focus
 - Learning **Machine Learning, Deep Learning & AI**  
 - Exploring **Data Analysis, NLP, Computer Vision & Predictive Modeling**  
-- Building **hands-on projects and Kaggle competitions**
+- Building hands-on projects and Kaggle competitions
 
 ---
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Data Science & ML
+### Data Science & ML Skills
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -40,36 +40,29 @@
 
 ---
 
-## 📂 Projects
-| Project | Tools / Tech | Description |
-|---------|--------------|-------------|
+## 📂 Projects & Visualizations
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sohag016/MyRepo/main/images/sentiment_analysis.png" width="300" alt="Sentiment Analysis" />
+  <img src="https://raw.githubusercontent.com/Sohag016/MyRepo/main/images/mnist_cnn.png" width="300" alt="MNIST CNN" />
+</p>
+
+| Project | Tools/Tech | Description |
+|---------|------------|-------------|
 | **Sentiment Analysis on Reviews** | Python, NLP, Scikit-learn | Predict positive/negative sentiment from text data |
-| **Handwritten Digit Recognition** | Python, TensorFlow, CNN | Classify MNIST dataset digits using Convolutional Neural Networks |
-| **Stock Price Prediction** | Python, LSTM, Pandas | Predict future stock prices using LSTM networks |
+| **Handwritten Digit Recognition** | Python, TensorFlow, CNN | Classify MNIST dataset digits using CNN |
+| **Stock Price Prediction** | Python, LSTM, Pandas | Predict future stock prices using LSTM |
 | **Image Classification** | PyTorch, CNN | Classify images into multiple categories using Deep Learning |
 
 ---
 
-## 📚 Research / Contributions
-- Research on **Machine Learning in Healthcare** (BSc thesis/project)  
-- Kaggle & Open-source contributions: [GitHub](https://github.com/Sohag016)  
-
----
-
-## 🎓 Education
+## 🎓 Education & Certifications
 - **BSc in CSE**, University of Dhaka  
-- Relevant Courses: **Data Science, Machine Learning, AI, Cloud Computing, IoT**  
+- Relevant Courses: Data Science, Machine Learning, AI, Cloud Computing, IoT  
+- **Certifications:** Power BI (Microsoft & Simplilearn), Machine Learning A-Z ([Udemy](https://aiquest.org/)), Python for Data Science (IBM)
 
 ---
 
-## 🏆 Certifications
-- **Power BI for Beginners** – Microsoft & Simplilearn | SkillUp  
-- **Machine Learning A-Z** – Udemy  
-- **Python for Data Science** – Coursera  
-
----
-
-## 🌐 Connect with me
+## 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/md-sohag-hossain-4687b6268/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -87,8 +80,15 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohag016&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sohag016&show_icons=true&locale=en" alt="GitHub Stats" />
+## 📊 GitHub Stats & Top Languages
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sohag016&show_icons=true&hide_border=true" alt="GitHub Stats" width="450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohag016&layout=compact&hide=html,css" alt="Top Languages" width="300" />
 </p>
+
+---
+
+## ⚡ Fun Fact
+- 💡 Passionate about turning **data into insights**  
+- 🤖 Always experimenting with **ML & AI projects**  
+- 🌏 Exploring **global datasets & competitions**
