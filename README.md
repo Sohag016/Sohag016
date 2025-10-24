@@ -1,56 +1,64 @@
 [![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQF3xYz1R8ThvA/profile-displaybackgroundimage-shrink_350_1400/B56ZoU5QjJJsAc-/0/1761287147189?e=1762992000&v=beta&t=G67E8bcMl2EcAz-b1aMwmFH0JE_xcnHSXYi7QVv5cW4)](https://www.linkedin.com/in/sohag-a5550a374/)
 
-<h2 align="left">Hi there 👋, I'm Md. Sohag Hossain</h2>
-<h3 align="left">🚀 Data Science & Machine Learning Enthusiast</h3>
+<h2 align="center">Hi there 👋, I'm Md. Sohag Hossain</h2>
+<h3 align="center">🚀 Data Science & Machine Learning Enthusiast | Python Developer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Sohag016&label=Profile%20views&color=0e75b6&style=flat" alt="Sohag016" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Sohag016&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
 
 ## 🌱 Current Focus
 - Learning **Machine Learning, Deep Learning & AI**  
-- Exploring **Data Analysis, NLP, Computer Vision & Predictive Modeling**
+- Exploring **Data Analysis, NLP, Computer Vision & Predictive Modeling**  
+- Building **hands-on projects and Kaggle competitions**
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
+
 ### Programming & Tools
-- **Python, R, SQL**  
-- **Pandas, NumPy, Matplotlib, Seaborn**  
-- **Scikit-learn, TensorFlow, PyTorch**  
-- **Jupyter Notebook, VS Code, Git/GitHub**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ### Data Science & ML
-- **Data Cleaning & Preprocessing**  
-- **Supervised & Unsupervised Learning**  
-- **Regression, Classification, Clustering**  
-- **Neural Networks & Deep Learning**  
-- **NLP & Text Mining**  
-- **Computer Vision & Image Processing**  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 Projects
-| Project | Tools/Tech | Description |
-|---------|------------|-------------|
-| Sentiment Analysis on Reviews | Python, NLP, Scikit-learn | Predict positive/negative sentiment from text data |
-| Handwritten Digit Recognition | Python, TensorFlow, CNN | Classify MNIST dataset digits using Convolutional Neural Networks |
-| Stock Price Prediction | Python, LSTM, Pandas | Predict future stock prices using LSTM networks |
-| Image Classification | PyTorch, CNN | Classify images into multiple categories using Deep Learning |
+| Project | Tools / Tech | Description |
+|---------|--------------|-------------|
+| **Sentiment Analysis on Reviews** | Python, NLP, Scikit-learn | Predict positive/negative sentiment from text data |
+| **Handwritten Digit Recognition** | Python, TensorFlow, CNN | Classify MNIST dataset digits using Convolutional Neural Networks |
+| **Stock Price Prediction** | Python, LSTM, Pandas | Predict future stock prices using LSTM networks |
+| **Image Classification** | PyTorch, CNN | Classify images into multiple categories using Deep Learning |
 
 ---
 
-## 📚 Research / Publications
+## 📚 Research / Contributions
 - Research on **Machine Learning in Healthcare** (BSc thesis/project)  
-- Kaggle & Open-source contributions: **https://github.com/Sohag016**  
+- Kaggle & Open-source contributions: [GitHub](https://github.com/Sohag016)  
 
 ---
 
 ## 🎓 Education
 - **BSc in CSE**, University of Dhaka  
-- Courses: **Data Science, Machine Learning, AI, Cloud Computing, IoT**  
+- Relevant Courses: **Data Science, Machine Learning, AI, Cloud Computing, IoT**  
 
 ---
 
@@ -62,41 +70,25 @@
 ---
 
 ## 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/md-sohag-hossain-4687b6268/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+<a href="https://www.linkedin.com/in/md-sohag-hossain-4687b6268/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-
-<a href="https://www.facebook.com/mdsohag.hosen.96558" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+<a href="https://www.facebook.com/mdsohag.hosen.96558" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
-
-<a href="https://www.instagram.com/mdsohag.hosen.96558?igsh=MWFjcWV3ZnpnbXh0OA==" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<a href="https://www.instagram.com/mdsohag.hosen.96558?igsh=MWFjcWV3ZnpnbXh0OA==" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-
-<a href="https://www.youtube.com/@SohagH-75" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+<a href="https://www.youtube.com/@SohagH-75" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-### 🛠️ Machine Learning & Data Science Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
 ## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohag016&show_icons=true&locale=en&layout=compact" alt="Sohag016 Top Languages" />
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohag016&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sohag016&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sohag016&show_icons=true&locale=en" alt="Sohag016 Stats" /></p>
