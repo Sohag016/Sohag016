@@ -1,4 +1,4 @@
-![Data Science/ML](https://media.licdn.com/dms/image/v2/D5616AQGHS9_XpK2nmQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724173655151?e=1729728000&v=beta&t=Z7SvMOoHh7oa1MGjzfg2UxtHoUge9AuKedrBv5--QgI)
+![Data Science/ML]([https://media.licdn.com/dms/image/v2/D5616AQGHS9_XpK2nmQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724173655151?e=1729728000&v=beta&t=Z7SvMOoHh7oa1MGjzfg2UxtHoUge9AuKedrBv5--QgI](https://www.linkedin.com/in/sohag-a5550a374/overlay/background-image/))
 
 <h2 align="left">Hi there 👋, Md. Sohag Hossain </h2>
 <h3  align="left"> Data Science/ML</h3>
