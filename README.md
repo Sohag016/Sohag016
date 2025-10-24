@@ -41,10 +41,7 @@
 ---
 
 ## 📂 Projects & Visualizations
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sohag016/MyRepo/main/images/sentiment_analysis.png" width="300" alt="Sentiment Analysis" />
-  <img src="https://raw.githubusercontent.com/Sohag016/MyRepo/main/images/mnist_cnn.png" width="300" alt="MNIST CNN" />
-</p>
+
 
 | Project | Tools/Tech | Description |
 |---------|------------|-------------|
@@ -58,7 +55,7 @@
 ## 🎓 Education & Certifications
 - **BSc in CSE**, University of Dhaka  
 - Relevant Courses: Data Science, Machine Learning, AI, Cloud Computing, IoT  
-- **Certifications:** Power BI (Microsoft & Simplilearn), Machine Learning A-Z ([Udemy](https://aiquest.org/)), Python for Data Science (IBM)
+- **Certifications:** Power BI (Microsoft & Simplilearn), Machine Learning A-Z ([aiquest](https://aiquest.org/)), Python for Data Science (IBM)
 
 ---
 
