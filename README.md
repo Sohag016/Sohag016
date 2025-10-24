@@ -1,4 +1,5 @@
-[![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQH7h5e9fhlRhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729770201528?e=1736380800&v=beta&t=gg0tkOPm6w6gn5nyvPzMCrSB0qBzn3Jpv_LzGfE3h9M)](https://www.linkedin.com/in/sohag-a5550a374/)
+[![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQF3xYz1R8ThvA/profile-displaybackgroundimage-shrink_350_1400/B56ZoU5QjJJsAc-/0/1761287147189?e=1762992000&v=beta&t=G67E8bcMl2EcAz-b1aMwmFH0JE_xcnHSXYi7QVv5cW4)](https://www.linkedin.com/in/sohag-a5550a374/)
+
 
 <h2 align="left">Hi there 👋, I'm Md. Sohag Hossain</h2>
 <h3 align="left">🚀 Data Science & Machine Learning Enthusiast</h3>
