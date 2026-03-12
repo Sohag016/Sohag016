@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4D16AQEXAMPLE/background-photo.jpg" alt="LinkedIn Banner" width="100%">
+  <img width="100%" src="https://raw.githubusercontent.com/Sohag016/Sohag016/main/Neutral%20Minimalist%20Graphic%20Designer%20New%20LinkedIn%20Banner.png" alt="LinkedIn Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Sohag Hossain</h1>
