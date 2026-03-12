@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_DIRECT_IMAGE_URL](https://www.linkedin.com/in/sohag-a5550a374/overlay/background-photo/)" alt="LinkedIn Banner" width="100%">
+  <img src="https://media.licdn.com/dms/image/C4D16AQEXAMPLE/background-photo.jpg" alt="LinkedIn Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Sohag Hossain</h1>
